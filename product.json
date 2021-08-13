@@ -1,0 +1,205 @@
+{
+  "body": [
+    {
+      "Product": {
+        "name": "pencil",
+        "category": "education",
+        "price": {
+          "original_price": 100,
+          "discount_percent": 0
+        }
+      }
+    },
+    {
+      "Product": {
+        "name": "pen",
+        "category": "education",
+        "price": {
+          "original_price": 100,
+          "discount_percent": 0
+        }
+      }
+    },
+    {
+      "Product": {
+        "name": "Krita",
+        "category": "education",
+        "price": {
+          "original_price": 140,
+          "discount_percent": 120
+        }
+      }
+    },
+    {
+      "Product": {
+        "name": "Graphite pencils",
+        "category": "education",
+        "price": {
+          "original_price": 150,
+          "discount_percent": 90
+        }
+      }
+    },
+    {
+      "Product": {
+        "name": "Inks",
+        "category": "education",
+        "price": {
+          "original_price": 120,
+          "discount_percent": 100
+        }
+      }
+    },
+    {
+      "Product": {
+        "name": "dip pens",
+        "category": "education",
+        "price": {
+          "original_price": 70,
+          "discount_percent": 0
+        }
+      }
+    },
+    {
+      "Product": {
+        "name": "dip pens",
+        "category": "library",
+        "price": {
+          "original_price": 100,
+          "discount_percent": 0
+        }
+      }
+    },
+    {
+      "Product": {
+        "name": "tubes",
+        "category": "laboratory",
+        "price": {
+          "original_price": 40,
+          "discount_percent": 0
+        }
+      }
+    },
+    {
+      "Product": {
+        "name": "Test tubes",
+        "category": "laboratory",
+        "price": {
+          "original_price": 408,
+          "discount_percent": 0
+        }
+      }
+    },
+    {
+      "Product": {
+        "name": "Beakers",
+        "category": "laboratory",
+        "price": {
+          "original_price": 440,
+          "discount_percent": 180
+        }
+      }
+    },
+    {
+      "Product": {
+        "name": "Volumetric flask",
+        "category": "laboratory",
+        "price": {
+          "original_price": 440,
+          "discount_percent": 0
+        }
+      }
+    },
+    {
+      "Product": {
+        "name": "Highlighters",
+        "category": "School Tool",
+        "price": {
+          "original_price": 210,
+          "discount_percent": 0
+        }
+      }
+    },
+    {
+      "Product": {
+        "name": "Three-ring binder",
+        "category": "School Tool",
+        "price": {
+          "original_price": 230,
+          "discount_percent": 22
+        }
+      }
+    },
+    {
+      "Product": {
+        "name": "Markers",
+        "category": "School Tool",
+        "price": {
+          "original_price": 260,
+          "discount_percent": 0
+        }
+      }
+    },
+    {
+      "Product": {
+        "name": "Subject dividers",
+        "category": "School Tool",
+        "price": {
+          "original_price": 270,
+          "discount_percent": 170
+        }
+      }
+    },
+    {
+      "Product": {
+        "name": "Creative spaces",
+        "category": "equipment",
+        "price": {
+          "original_price": 2000,
+          "discount_percent": 150
+        }
+      }
+    },
+    {
+      "Product": {
+        "name": "Smartboards",
+        "category": "equipment",
+        "price": {
+          "original_price": 1000,
+          "discount_percent":900
+        }
+      }
+    },
+    {
+      "Product": {
+        "name": "Laptops",
+        "category": "equipment",
+        "price": {
+          "original_price": 1500,
+          "discount_percent": 1300
+        }
+      }
+    },
+    {
+      "Product": {
+        "name": "Cameras",
+        "category": "equipment",
+        "price": {
+          "original_price": 1000,
+          "discount_percent": 900
+        }
+      }
+    }
+    ,
+    {
+      "Product": {
+        "name": "DataShow",
+        "category": "equipment",
+        "price": {
+          "original_price": 900,
+          "discount_percent": 0
+        }
+      }
+    }
+  ]
+}
